@@ -1,0 +1,124 @@
+    3  ls
+    4  ls -- help
+    5  ls --help
+    6  ls -a
+   19  ls -a
+   21  ls -a
+   23  ls -a
+   29  ls ABC-Text
+   30  ls
+   45  ls
+   50  ls
+   57  ls
+   62  ls
+   63  ls --help
+   64  ls -a
+   65  ls -i
+   66  ls -d
+   71  ls
+   74  ls
+   75  ls -a
+   76  ls -i
+   77  ls -d
+   94  ls -a
+  100  ls
+  101  ls -a
+  102  ls --help
+  108  ls 
+  109  ls --help
+  110  ls downloads/
+  127  ls
+  129  ls
+  132  ls
+  134  ls
+  136  ls
+  138  ls
+  140  ls
+  142  ls
+  144  ls
+  146  ls
+  148  ls
+  149  ls --help
+  156  ls
+  158  ls
+  161  ls
+  168  ls
+  173  ls
+  176  ls
+  184  ls
+  195  ls
+  197  ls
+  199  ls
+  201  ls
+  203  ls
+  205  ls
+  209  ls
+  211  ls
+  212  ls
+  215  ls
+  218  ls
+  220  ls
+  222  ls a1
+  225  ls
+  238  ls
+  239  ls a1
+  241  ls d1
+  242  ls
+  245  ls
+  246  ls
+  249  ls
+  252  ls
+  254  ls
+  256  ls
+  258  ls
+  260  ls
+  262  ls
+  265  ls
+  267  ls
+  270  ls
+  273  ls
+  275  ls
+  277  ls
+  278  ls
+  282  ls
+  285  ls
+  287  ls 
+  288  ls
+  290  ls
+  292  ls
+  296  ls
+  298  ls
+  300  ls
+  302  ls
+  304  ls
+  306  ls
+  309  ls
+  311  ls
+  313  ls
+  316  ls
+  319  ls --a
+  320  ls -a
+  321  ls -A
+  322  ls -b
+  323  ls -f
+  324  ls -F
+  325  ls -g
+  326  ls -k
+  327  ls -s
+  328  ls -r
+  329  ls -R
+  330  ls -i
+  331  ls -z
+  332  ls -w
+  333  ls -1
+  336  ls
+  341  ls
+  347  ls
+  351  ls
+  360  ls
+  363  ls
+  364  ls |grep .txt
+  365  ls |grep .pdf
+  370  history | grep ls
+  376  history |grep ls
+  381  history |grep ls > ASFILE2.txt

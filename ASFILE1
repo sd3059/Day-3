@@ -1,0 +1,371 @@
+pwd
+errors
+ls
+ls -- help
+ls --help
+ls -a
+cd Desktop/
+cd Downloads/
+pwd
+mkdir linux
+cd linux/
+pwd
+cd ..
+cd linux/
+clear
+touch linux2
+touch linux2/
+touch linux2
+ls -a
+rm linux2 
+ls -a
+cd ..
+ls -a
+pwd
+rmdir linux
+mkdir Shouvik1
+cd Shouvik1
+touch ABC-Text
+ls ABC-Text
+ls
+nano ABC-Text
+cat ABC-Text
+head ABC-Text
+nano ABC-Text
+cat ABC-Text
+head ABC-Text
+cd ..
+mkdir SD1
+cd SD1
+cd SD1/
+cd ..
+mv SD1
+mv Shouvik1 SD1
+cd SD1
+ls
+cd Shouvik1
+mkdir SD2
+cp ABC-Text SD2
+cd SD2
+ls
+history
+history > BASIC-COMMANDS
+cat BASIC COMMANDS
+cat BASIC-COMMANDS 
+pwd
+pwd
+ls
+cd Downoads/
+cd Downloads/
+cd
+cd Downloads/
+ls
+ls --help
+ls -a
+ls -i
+ls -d
+clear
+pwd
+cd ..
+pwd
+ls
+cd Downloads/
+pwd
+ls
+ls -a
+ls -i
+ls -d
+CD SD1
+CD SD1/
+cd linux
+cd linux/
+cd linux2/
+mkdir SDB1
+cd SDB1
+touch sdb11
+nano sdb11
+cat sdb11
+head sdb11
+touch sdb 22
+nano sdb22
+cat sdb11
+cat sdb 22
+cat sdb22
+ls -a
+clear
+pwd
+cd ..
+cd ..
+pwd
+ls
+ls -a
+ls --help
+cd sdb11
+c ..
+cd ..
+cd ..
+pwd
+ls 
+ls --help
+ls downloads/
+cd downloads/
+mkdir SHOUVIKD1
+cd SHOUVIKD1
+touch SD1
+touch SD2
+TOUCH SD3
+cd SD3
+rm SD3
+touch SD3
+nano SD3
+cat SD3
+head SD3
+mkdir SHOUVIKD2
+cd SHOUVIKD2
+mv SD3 SHOUVIKD2
+LS
+ls
+cd ..
+ls
+mv SD3 SHOUIVIKD2
+cd SHOUVIKD2
+ls
+cd ..
+ls
+rm SHOUIVIKD2
+ls
+touch sd3
+ls
+mkdir a
+ls
+mv sd3 a
+ls
+cd a
+ls
+mkdir b
+ls
+pwd
+ls
+ls --help
+cd downloads/
+mkdir aa
+mkdir bb
+mkdir cc
+cd cc
+cd ..
+ls
+cd ..
+ls
+clear
+pwd
+ls
+mkdir a
+cd a
+mkdir b
+mkdir c
+mkdir d
+mkdir e
+ls
+touch ab
+touch ac
+touch ad
+touch ae
+ls
+clear
+pwd
+ls
+mkdir a
+mkdir b
+cd a
+cd ..
+cd ..
+clear
+pwd
+ls
+mkdir a
+mkdir a1
+cd a1
+mkdir b1
+mkdir c1
+mkdir d1
+mkdir e1
+touch aaa
+touch bbb
+touch ccc
+ls
+mv aaa b1
+ls
+cd b1
+ls
+cd ..
+ls
+cd ..
+ls
+cd a1
+ls
+mv aaa a1
+cp bbb c1
+cd c1
+ls
+mv bbb d1
+ls
+ls
+cd ..
+cd a1
+ls
+mv bbb d1
+cd d1
+ls
+cd ..
+ls
+cd a1
+ls a1
+cd ..
+cd a1
+ls
+nano b1
+cat a1
+cd b1
+nano b1
+cat b1
+cat a1
+cd ..
+cat a1
+cd b1
+cat b1
+cd ..
+cd a1
+ls
+ls a1
+cd d1
+ls d1
+ls
+cd ..
+mv d1/bbb a1
+ls
+ls
+mv a1 d1
+cd d1
+ls
+pwd
+mv a1 aaa
+ls
+cd ..
+ls
+mv d1/aaa a1
+ls
+cd d1
+ls
+cd ..
+ls
+mv a1 aaa
+ls
+mv aaa d1
+cd d1
+ls
+cd ..
+ls
+mv d1/aaa a1/aaa
+mv d1/aaa a1
+ls
+cp a1 e1
+cd e1
+ls
+mv e1/a1 a1
+ls
+cd ..
+ls
+ls
+mov a1 aaa
+mv a1 aaa
+cd a1
+ls
+cd ..
+cd a1
+ls
+cd d1
+ls 
+ls
+cd ..
+ls
+cd b1
+ls
+mv b1/aaa a1
+cd ..
+mv b1/aaa a1
+ls
+cd b1
+ls
+mv b1 a1
+ls
+cd ..
+ls
+mv a1 bbb
+ls
+cd b1
+ls
+cd ..
+mv b1/a1 a1
+ls
+mv a1 ddd
+ls
+mv ddd ccc
+ls
+nano ccc
+mv ccc bbb
+ls
+nano bbb
+cat bbb
+ls --a
+ls -a
+ls -A
+ls -b
+ls -f
+ls -F
+ls -g
+ls -k
+ls -s
+ls -r
+ls -R
+ls -i
+ls -z
+ls -w
+ls -1
+history
+history > Commands
+ls
+cat Commands
+mkdir A2B 
+cd ..
+mkdir AB1 AB2
+ls
+pwd
+cd ..
+cd ..
+cd users
+cd shouvik das
+ls
+cd Shouvik\ Das/
+LS
+cd Dropbox/
+ls
+cd desktop
+clear
+mkdir AS1
+cd AS1
+touch A11.txt
+touch A22.txt
+touch B11.txt
+touch B22.txt
+ls
+touch C11.pdf
+touch C22.pdf
+ls
+ls |grep .txt
+ls |grep .pdf
+history
+history > Commands(1)
+history > Commands1
+cat Commands1
+history | grep ls
+history -w ASFILE1
